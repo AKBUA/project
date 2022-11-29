@@ -1,0 +1,17 @@
+.todoform{
+    padding: 5px 5px;
+    width: 40%; 
+
+}
+
+
+.todoform-button{
+    background-color: #f0561e;
+    border-style: none;
+    color: white;
+  font-family: 'moreto',sans-serif;
+  font-size: 1.1em;
+  width: 60px;
+  padding: 5px 5px;
+  border-radius:10px;
+}
